@@ -16,7 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,11 +68,9 @@
 </div>
 
 </td></tr></table>  
-
 <br/>  
 
-
-## Connect with me  
+## Connect
 <div align="center">
 <a href="https://github.com/raslan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -92,9 +90,4 @@
 <a href="https://dribbble.com/aliraslan" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
