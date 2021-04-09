@@ -17,7 +17,7 @@
 
 
 ## Skills
-<table><tr><td valign="top" width="33%">
+<table><tr valign="top" width="100%">
 
 
 
@@ -36,7 +36,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</tr><tr valign="top" width="100%">
 
 
 
@@ -52,7 +52,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</tr><tr valign="top" width="100%">
 
 
 
@@ -67,7 +67,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>
 
-</td></tr></table>  
+</tr></table>  
 <br/>  
 
 ## Connect
