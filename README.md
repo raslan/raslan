@@ -12,7 +12,11 @@
 
 - 🔭 I love exploring software ideas that make people more productive.  
 
-- Actively working on: [Throwaway](https://github.com/raslan/throwaway) and [@refolded](https://github.com/refolded)
+
+- Actively working on: [Throwaway](https://github.com/raslan/throwaway)
+
+- Currently learning: Containers, DevOps and Database Deployments.
+
 
 <br/>  
 
