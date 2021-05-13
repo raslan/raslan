@@ -15,7 +15,7 @@
 
 - Actively working on: [Throwaway](https://github.com/raslan/throwaway)
 
-- Currently learning: Containers, DevOps and Database Deployments.
+- Currently learning: Docker.
 
 
 <br/>  
