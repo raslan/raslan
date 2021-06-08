@@ -9,14 +9,11 @@
 
 - 📻 I have a [podcast](https://anchor.fm/asyncpodcast) where I talk about design and development.  
   
+  
+- 🖊️ I draw a [webcomic](https://twitter.com/raslandev) about technology.
 
-- 🔭 I love exploring software ideas that make people more productive.  
 
-
-- Actively working on: [Throwaway](https://github.com/raslan/throwaway)
-
-- Currently learning: Docker.
-
+- 🔭 I love exploring software ideas that make people more productive.
 
 <br/>  
 
@@ -66,8 +63,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>
 
 </tr></table>  
