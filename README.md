@@ -1,11 +1,9 @@
 # Hi, I'm Ali! 👋   
   
 
-### A designer and full-stack developer.  
-  
+### A designer and full-stack developer.   
 
-- 📝 I write posts about design and development on [my blog](https://raslan.dev/posts) and [dev](https://dev.to/raslan).  
-  
+- 📃 I love writing software libraries, especially for React.
 
 - 📻 I have a [podcast](https://anchor.fm/asyncpodcast) where I talk about design and development.  
   
