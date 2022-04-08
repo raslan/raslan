@@ -5,12 +5,6 @@
 
 - 📃 I love writing software libraries, especially for React.
 
-- 📻 I have a [podcast](https://anchor.fm/asyncpodcast) where I talk about design and development.  
-  
-  
-- 🖊️ I draw a [webcomic](https://twitter.com/raslandev) about technology.
-
-
 - 🔭 I love exploring software ideas that make people more productive.
 
 <br/>  
