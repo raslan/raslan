@@ -8,12 +8,12 @@ Lead fullstack engineer focused on open source developer tooling. Founder of [@r
 
 ## Projects
 
-| Project | |
-|---|---|
-| [**Throwaway**](https://github.com/raslan/throwaway) | Browser extension for disposable emails · 5,000+ installs |
-| [**Vigil**](https://github.com/refolded/vigil) | HTTP proxy that auto-stops idle Docker containers and restarts on demand |
-| [**Koala**](https://github.com/raslan/koala) | Open-source financial calculator |
-| [**Parallax**](https://github.com/raslan/parallax) | Video and image manager with AI scanning and transcoding |
+| Project | | |
+|---|---|---|
+| [**Throwaway**](https://github.com/raslan/throwaway) | Browser extension for disposable emails · 5,000+ installs | [throwaway.raslan.dev](https://throwaway.raslan.dev) |
+| [**Vigil**](https://github.com/refolded/vigil) | HTTP proxy that auto-stops idle Docker containers and restarts on demand | [refolded.github.io/vigil](https://refolded.github.io/vigil) |
+| [**Koala**](https://github.com/raslan/koala) | Open-source financial calculator | [koalify.raslan.dev](https://koalify.raslan.dev) |
+| [**Parallax**](https://github.com/raslan/parallax) | Video and image manager with AI scanning and transcoding | [parallax.raslan.dev](https://parallax.raslan.dev) |
 
 ---
 
